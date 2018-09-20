@@ -1,0 +1,11 @@
+{
+  "name": "tb-koa-create-app",
+  "version": "1.0.0",
+  "description": "it is for some want use koa2 develoop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tianbian",
+  "license": "ISC"
+}
