@@ -4,8 +4,16 @@
   "description": "it is for some want use koa2 develoop.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --use_strict index.js"
   },
   "author": "tianbian",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-bodyparser": "^4.2.1",
+    "mysql2": "^1.6.1",
+    "node-uuid": "^1.4.8",
+    "sequelize": "^4.38.1"
+  }
 }
