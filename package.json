@@ -12,8 +12,9 @@
   "dependencies": {
     "koa": "^2.5.3",
     "koa-bodyparser": "^4.2.1",
-    "mysql2": "^1.6.1",
+    "koa-router": "^7.4.0",
+    "mysql2": "^1.6.4",
     "node-uuid": "^1.4.8",
-    "sequelize": "^4.38.1"
+    "sequelize": "^4.42.0"
   }
 }
